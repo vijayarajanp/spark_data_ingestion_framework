@@ -14,5 +14,13 @@ V 1.0
 V 2.0
 
 Rest API consume using spark:
+
 https://medium.com/ibm-data-science-experience/using-spark-as-a-parallel-processing-framework-for-accessing-rest-based-data-services-cd4c98526784
 
+System memory at least error in Spark:
+
+https://www.waitingforcode.com/apache-spark/troubleshooting-system-memory-must-be-at-least-error/read
+
+Parquet:
+
+https://www.waitingforcode.com/apache-parquet/introduction-apache-parquet/read
