@@ -12,3 +12,7 @@ V 1.0
   Source Schema and Target schema
     
 V 2.0
+
+Rest API consume using spark:
+https://medium.com/ibm-data-science-experience/using-spark-as-a-parallel-processing-framework-for-accessing-rest-based-data-services-cd4c98526784
+
