@@ -1,8 +1,7 @@
 # spark_data_ingestion_framework
 V 1.0
   
-   https://paypal.rolepoint.com/?shorturl=IZWMi&jobapp=ahBzfnJvbGVwb2ludC1wcm9kchsLEg5Kb2JBcHBsaWNhdGlvbhiAgMiJ1536Cgw#job/ahBzfnJvbGVwb2ludC1wcm9kchALEgNKb2IYgIDI3Mj_ngoM
-
+  
 
   Read the txt, csv and hive table
   
